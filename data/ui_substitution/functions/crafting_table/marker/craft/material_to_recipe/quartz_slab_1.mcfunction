@@ -1,0 +1,1 @@
+scoreboard players add chiseled_quartz_block uis_craft_match 1

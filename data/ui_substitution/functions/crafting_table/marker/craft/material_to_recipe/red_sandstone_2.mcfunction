@@ -1,0 +1,3 @@
+scoreboard players add cut_red_sandstone uis_craft_match 1
+scoreboard players add red_sandstone_slab uis_craft_match 1
+scoreboard players add red_sandstone_wall uis_craft_match 1

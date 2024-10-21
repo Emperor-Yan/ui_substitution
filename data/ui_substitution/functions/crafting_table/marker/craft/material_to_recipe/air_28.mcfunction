@@ -1,0 +1,12 @@
+scoreboard players add diamond_leggings uis_craft_match 1
+scoreboard players add fishing_rod uis_craft_match 1
+scoreboard players add fishing_rod_ uis_craft_match 1
+scoreboard players add golden_leggings uis_craft_match 1
+scoreboard players add iron_leggings uis_craft_match 1
+scoreboard players add ladder uis_craft_match 1
+scoreboard players add lead uis_craft_match 1
+scoreboard players add lead_ uis_craft_match 1
+scoreboard players add leather_horse_armor uis_craft_match 1
+scoreboard players add leather_leggings uis_craft_match 1
+scoreboard players add rail uis_craft_match 1
+scoreboard players add scaffolding uis_craft_match 1

@@ -1,0 +1,5 @@
+scoreboard players add polished_blackstone_bricks uis_craft_match 1
+scoreboard players add polished_blackstone_pressure_plate uis_craft_match 1
+scoreboard players add polished_blackstone_slab uis_craft_match 1
+scoreboard players add polished_blackstone_stairs uis_craft_match 1
+scoreboard players add polished_blackstone_wall uis_craft_match 1

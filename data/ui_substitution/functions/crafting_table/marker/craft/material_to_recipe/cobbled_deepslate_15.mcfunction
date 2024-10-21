@@ -1,0 +1,5 @@
+scoreboard players add cobbled_deepslate_stairs uis_craft_match 1
+scoreboard players add cobbled_deepslate_stairs_ uis_craft_match 1
+scoreboard players add cobbled_deepslate_wall uis_craft_match 1
+scoreboard players add silence_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add ward_armor_trim_smithing_template uis_craft_match 1

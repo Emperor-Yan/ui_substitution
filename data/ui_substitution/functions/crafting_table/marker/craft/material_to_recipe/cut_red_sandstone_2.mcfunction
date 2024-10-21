@@ -1,0 +1,1 @@
+scoreboard players add cut_red_sandstone_slab uis_craft_match 1

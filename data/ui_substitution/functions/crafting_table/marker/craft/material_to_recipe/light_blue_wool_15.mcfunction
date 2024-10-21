@@ -1,0 +1,1 @@
+scoreboard players add light_blue_banner uis_craft_match 1

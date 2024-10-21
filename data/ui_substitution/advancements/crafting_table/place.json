@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "placed_craftingtable": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "player": [],
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:crafting_table"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "ui_substitution:crafting_table/ray_pre"
+  }
+}

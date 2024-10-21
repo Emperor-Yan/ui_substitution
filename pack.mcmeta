@@ -1,0 +1,21 @@
+﻿{
+  "pack": {
+    "pack_format": 18,
+    "description": [
+      {
+        "text": "替代原版部分功能方块的UI\n",
+        "color": "white",
+        "bold": true
+      },
+      {
+        "text": "by金烈炎帝",
+        "color": "gold",
+        "bold": true,
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://space.bilibili.com/454015318"
+        }
+      }
+    ]
+  }
+}

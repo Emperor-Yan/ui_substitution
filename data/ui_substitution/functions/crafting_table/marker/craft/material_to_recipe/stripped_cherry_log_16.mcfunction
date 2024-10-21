@@ -1,0 +1,1 @@
+scoreboard players add cherry_hanging_sign uis_craft_match 1

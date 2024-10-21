@@ -1,0 +1,1 @@
+scoreboard players add stripped_crimson_hyphae uis_craft_match 1

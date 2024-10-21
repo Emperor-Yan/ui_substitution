@@ -1,0 +1,1 @@
+scoreboard players add exposed_cut_copper_slab uis_craft_match 1

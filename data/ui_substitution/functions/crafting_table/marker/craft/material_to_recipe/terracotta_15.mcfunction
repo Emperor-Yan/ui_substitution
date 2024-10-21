@@ -1,0 +1,4 @@
+scoreboard players add host_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add raiser_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add shaper_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add wayfinder_armor_trim_smithing_template uis_craft_match 1

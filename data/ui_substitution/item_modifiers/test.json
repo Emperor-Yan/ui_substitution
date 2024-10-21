@@ -1,0 +1,13 @@
+[
+  {
+    "function": "minecraft:copy_nbt",
+    "source": "this",
+    "ops": [
+      {
+        "source": "SelectedItem.Count",
+        "target": "Inventory[0].Count",
+        "op": "replace"
+      }
+    ]
+  }
+]

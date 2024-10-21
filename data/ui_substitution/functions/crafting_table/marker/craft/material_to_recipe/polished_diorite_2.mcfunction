@@ -1,0 +1,1 @@
+scoreboard players add polished_diorite_slab uis_craft_match 1

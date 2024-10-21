@@ -1,0 +1,1 @@
+scoreboard players add shaper_armor_trim_smithing_template uis_craft_match 1

@@ -1,0 +1,1 @@
+scoreboard players add polished_deepslate uis_craft_match 1

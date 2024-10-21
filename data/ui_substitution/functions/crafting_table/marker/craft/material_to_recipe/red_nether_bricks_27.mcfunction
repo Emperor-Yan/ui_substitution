@@ -1,0 +1,2 @@
+scoreboard players add red_nether_brick_stairs uis_craft_match 1
+scoreboard players add red_nether_brick_stairs_ uis_craft_match 1

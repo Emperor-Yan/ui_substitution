@@ -1,0 +1,15 @@
+scoreboard players add cauldron uis_craft_match 1
+scoreboard players add detector_rail uis_craft_match 1
+scoreboard players add hopper uis_craft_match 1
+scoreboard players add iron_bars uis_craft_match 1
+scoreboard players add iron_block uis_craft_match 1
+scoreboard players add iron_boots uis_craft_match 1
+scoreboard players add iron_chestplate uis_craft_match 1
+scoreboard players add iron_helmet uis_craft_match 1
+scoreboard players add iron_leggings uis_craft_match 1
+scoreboard players add iron_pickaxe uis_craft_match 1
+scoreboard players add minecart uis_craft_match 1
+scoreboard players add rail uis_craft_match 1
+scoreboard players add activator_rail uis_craft_match 1
+scoreboard players add blast_furnace uis_craft_match 1
+scoreboard players add bucket uis_craft_match 1

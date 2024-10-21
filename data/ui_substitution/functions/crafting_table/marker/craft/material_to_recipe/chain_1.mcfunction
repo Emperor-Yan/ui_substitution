@@ -1,0 +1,11 @@
+scoreboard players add cherry_hanging_sign uis_craft_match 1
+scoreboard players add crimson_hanging_sign uis_craft_match 1
+scoreboard players add dark_oak_hanging_sign uis_craft_match 1
+scoreboard players add jungle_hanging_sign uis_craft_match 1
+scoreboard players add mangrove_hanging_sign uis_craft_match 1
+scoreboard players add oak_hanging_sign uis_craft_match 1
+scoreboard players add spruce_hanging_sign uis_craft_match 1
+scoreboard players add warped_hanging_sign uis_craft_match 1
+scoreboard players add acacia_hanging_sign uis_craft_match 1
+scoreboard players add bamboo_hanging_sign uis_craft_match 1
+scoreboard players add birch_hanging_sign uis_craft_match 1

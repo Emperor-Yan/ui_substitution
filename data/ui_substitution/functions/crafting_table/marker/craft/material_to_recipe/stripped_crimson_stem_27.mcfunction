@@ -1,0 +1,1 @@
+scoreboard players add crimson_hanging_sign uis_craft_match 1

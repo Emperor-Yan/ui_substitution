@@ -1,0 +1,1 @@
+scoreboard players add chiseled_polished_blackstone uis_craft_match 1

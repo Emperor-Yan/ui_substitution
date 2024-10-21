@@ -1,0 +1,1 @@
+scoreboard players add chiseled_sandstone uis_craft_match 1

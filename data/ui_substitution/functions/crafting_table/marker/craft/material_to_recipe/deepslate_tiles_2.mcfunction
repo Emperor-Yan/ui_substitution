@@ -1,0 +1,2 @@
+scoreboard players add deepslate_tile_slab uis_craft_match 1
+scoreboard players add deepslate_tile_wall uis_craft_match 1

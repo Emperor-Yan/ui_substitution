@@ -1,0 +1,1 @@
+scoreboard players add bamboo_mosaic_slab uis_craft_match 1

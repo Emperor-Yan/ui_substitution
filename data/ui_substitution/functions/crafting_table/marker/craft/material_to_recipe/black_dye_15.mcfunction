@@ -1,0 +1,4 @@
+scoreboard players add dark_prismarine uis_craft_match 1
+scoreboard players add black_stained_glass uis_craft_match 1
+scoreboard players add black_stained_glass_pane_from_glass_pane uis_craft_match 1
+scoreboard players add black_terracotta uis_craft_match 1

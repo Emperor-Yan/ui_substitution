@@ -1,0 +1,2 @@
+scoreboard players add netherite_upgrade_smithing_template uis_craft_match 1
+scoreboard players add rib_armor_trim_smithing_template uis_craft_match 1

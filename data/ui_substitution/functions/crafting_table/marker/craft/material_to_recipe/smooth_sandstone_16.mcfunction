@@ -1,0 +1,1 @@
+scoreboard players add smooth_sandstone_stairs_ uis_craft_match 1

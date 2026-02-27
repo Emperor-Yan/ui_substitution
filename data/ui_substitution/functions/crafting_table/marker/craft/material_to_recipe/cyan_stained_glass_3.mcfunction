@@ -1,0 +1,1 @@
+scoreboard players add cyan_stained_glass_pane uis_craft_match 1

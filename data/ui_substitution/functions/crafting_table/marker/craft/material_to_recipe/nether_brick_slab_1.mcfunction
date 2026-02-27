@@ -1,0 +1,1 @@
+scoreboard players add chiseled_nether_bricks uis_craft_match 1

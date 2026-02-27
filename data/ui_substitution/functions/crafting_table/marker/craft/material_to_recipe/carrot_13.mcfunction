@@ -1,0 +1,1 @@
+scoreboard players add carrot_on_a_stick_ uis_craft_match 1

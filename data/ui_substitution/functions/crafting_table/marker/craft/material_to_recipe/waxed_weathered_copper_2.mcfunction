@@ -1,0 +1,1 @@
+scoreboard players add waxed_weathered_cut_copper uis_craft_match 1

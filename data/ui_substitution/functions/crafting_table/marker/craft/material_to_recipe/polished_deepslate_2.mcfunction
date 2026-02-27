@@ -1,0 +1,3 @@
+scoreboard players add deepslate_bricks uis_craft_match 1
+scoreboard players add polished_deepslate_slab uis_craft_match 1
+scoreboard players add polished_deepslate_wall uis_craft_match 1

@@ -1,0 +1,10 @@
+scoreboard players add diamond_axe_ uis_craft_match 1
+scoreboard players add diamond_hoe_ uis_craft_match 1
+scoreboard players add golden_axe_ uis_craft_match 1
+scoreboard players add golden_hoe_ uis_craft_match 1
+scoreboard players add iron_axe_ uis_craft_match 1
+scoreboard players add iron_hoe_ uis_craft_match 1
+scoreboard players add stone_axe_ uis_craft_match 1
+scoreboard players add stone_hoe_ uis_craft_match 1
+scoreboard players add wooden_axe_ uis_craft_match 1
+scoreboard players add wooden_hoe_ uis_craft_match 1

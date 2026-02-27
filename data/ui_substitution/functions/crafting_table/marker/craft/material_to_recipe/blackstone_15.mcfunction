@@ -1,0 +1,4 @@
+scoreboard players add snout_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add blackstone_stairs uis_craft_match 1
+scoreboard players add blackstone_stairs_ uis_craft_match 1
+scoreboard players add blackstone_wall uis_craft_match 1

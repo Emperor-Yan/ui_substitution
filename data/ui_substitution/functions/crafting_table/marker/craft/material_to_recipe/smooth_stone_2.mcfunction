@@ -1,0 +1,1 @@
+scoreboard players add smooth_stone_slab uis_craft_match 1

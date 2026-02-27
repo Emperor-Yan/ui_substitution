@@ -1,0 +1,1 @@
+scoreboard players add stripped_cherry_wood uis_craft_match 1

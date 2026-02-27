@@ -1,0 +1,4 @@
+scoreboard players add cobbled_deepslate_slab uis_craft_match 1
+scoreboard players add cobbled_deepslate_stairs uis_craft_match 1
+scoreboard players add cobbled_deepslate_wall uis_craft_match 1
+scoreboard players add polished_deepslate uis_craft_match 1

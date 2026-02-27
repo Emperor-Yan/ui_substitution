@@ -1,0 +1,1 @@
+scoreboard players add lime_stained_glass_pane uis_craft_match 1

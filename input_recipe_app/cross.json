@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "a": {
+        "item": "minecraft:totem_of_undying"
+      },
+      "b": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "pattern": [
+      "aaa",
+      "aba",
+      "aaa"
+    ],
+    "result": {
+      "item": "minecraft:totem_of_undying",
+      "count": 1
+    }
+  }
+  

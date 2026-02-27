@@ -1,0 +1,1 @@
+scoreboard players add polished_diorite_stairs_ uis_craft_match 1

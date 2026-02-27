@@ -1,0 +1,6 @@
+scoreboard players add coast_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add cobblestone_stairs uis_craft_match 1
+scoreboard players add cobblestone_stairs_ uis_craft_match 1
+scoreboard players add cobblestone_wall uis_craft_match 1
+scoreboard players add sentry_armor_trim_smithing_template uis_craft_match 1
+scoreboard players add vex_armor_trim_smithing_template uis_craft_match 1

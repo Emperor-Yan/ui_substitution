@@ -1,0 +1,1 @@
+scoreboard players add dune_armor_trim_smithing_template uis_craft_match 1

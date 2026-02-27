@@ -1,0 +1,15 @@
+scoreboard players add gold_block uis_craft_match 1
+scoreboard players add golden_apple uis_craft_match 1
+scoreboard players add golden_axe uis_craft_match 1
+scoreboard players add golden_axe_ uis_craft_match 1
+scoreboard players add golden_boots uis_craft_match 1
+scoreboard players add golden_chestplate uis_craft_match 1
+scoreboard players add golden_helmet uis_craft_match 1
+scoreboard players add golden_hoe uis_craft_match 1
+scoreboard players add golden_hoe_ uis_craft_match 1
+scoreboard players add golden_leggings uis_craft_match 1
+scoreboard players add golden_pickaxe uis_craft_match 1
+scoreboard players add golden_shovel uis_craft_match 1
+scoreboard players add golden_sword uis_craft_match 1
+scoreboard players add light_weighted_pressure_plate uis_craft_match 1
+scoreboard players add powered_rail uis_craft_match 1

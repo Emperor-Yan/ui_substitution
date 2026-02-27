@@ -1,0 +1,1 @@
+scoreboard players add calibrated_sculk_sensor uis_craft_match 1

@@ -1,0 +1,20 @@
+scoreboard players add compass uis_craft_match 1
+scoreboard players add crossbow uis_craft_match 1
+scoreboard players add heavy_weighted_pressure_plate uis_craft_match 1
+execute if score heavy_weighted_pressure_plate uis_craft_match matches 2 run data modify entity @s data.craft.result append value {item:"heavy_weighted_pressure_plate",Count:1b}
+scoreboard players add iron_axe uis_craft_match 1
+scoreboard players add iron_axe_ uis_craft_match 1
+scoreboard players add iron_bars uis_craft_match 1
+scoreboard players add iron_block uis_craft_match 1
+scoreboard players add iron_door uis_craft_match 1
+scoreboard players add iron_helmet uis_craft_match 1
+scoreboard players add iron_hoe uis_craft_match 1
+scoreboard players add iron_hoe_ uis_craft_match 1
+scoreboard players add iron_leggings uis_craft_match 1
+scoreboard players add iron_pickaxe uis_craft_match 1
+scoreboard players add iron_trapdoor uis_craft_match 1
+scoreboard players add shears uis_craft_match 1
+scoreboard players add shield uis_craft_match 1
+scoreboard players add smithing_table uis_craft_match 1
+scoreboard players add stonecutter uis_craft_match 1
+scoreboard players add blast_furnace uis_craft_match 1

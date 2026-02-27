@@ -1,0 +1,1 @@
+scoreboard players add netherite_upgrade_smithing_template uis_craft_match 1

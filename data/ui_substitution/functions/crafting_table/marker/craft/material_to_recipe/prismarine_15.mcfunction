@@ -1,0 +1,4 @@
+scoreboard players add prismarine_stairs uis_craft_match 1
+scoreboard players add prismarine_stairs_ uis_craft_match 1
+scoreboard players add prismarine_wall uis_craft_match 1
+scoreboard players add tide_armor_trim_smithing_template uis_craft_match 1

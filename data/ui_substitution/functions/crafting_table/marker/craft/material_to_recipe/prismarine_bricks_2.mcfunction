@@ -1,0 +1,1 @@
+scoreboard players add prismarine_brick_slab uis_craft_match 1
